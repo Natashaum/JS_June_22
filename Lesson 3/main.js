@@ -76,6 +76,20 @@
 //         console.log('Enter correct number!');
 // }
 
+// ------------------------ 2nd version of the previous task  -----------------------
+
+// let dictionary = {
+//     1: 'Sunday',
+//     2: 'Monday',
+//     3: 'Tuesday',
+//     4: 'Wednesday',
+//     5: 'Thursday',
+//     6: 'Friday',
+//     7: 'Saturday'
+// };
+//
+// let day = prompt('Enter the number of the day');
+// console.log(dictionary[day] ?? 'Enter correct number!');
 
 //     - Користувач вводить або має два числа.
 //         Потрібно знайти та вивести максимальне число з тих двох .
