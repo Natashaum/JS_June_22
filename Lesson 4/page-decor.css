@@ -1,0 +1,16 @@
+.product-card {
+    background: lightcyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.product-title {
+    font-size: 30px;
+    color: darkblue;
+}
+
+.product-image {
+    width: 300px;
+}
