@@ -1,0 +1,104 @@
+.member {
+    border: 2px solid lightskyblue;
+    background: #c2e5e2;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.h2Decor {
+    color: #1056d9;
+}
+
+.decor {
+    border: solid 2px blue;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
+
+.twoBoxesDecor {
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pDecor {
+    border: solid 2px blue;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/*====================================================================================================================*/
+
+.wrap {
+    border: solid 2px blue;
+    background: lightcyan;
+    text-align: center;
+    margin: 10px;
+}
+.collapse {
+    color: blueviolet;
+}
+
+.alpha {
+    color: blue;
+}
+
+/*====================================================================================================================*/
+
+h1 {
+    background: #1056d9;
+    color: white;
+}
+
+.item {
+    border: solid 5px #0015ff;
+    text-align: center;
+    margin: 10px;
+}
+
+.description {
+    border: solid 4px turquoise;
+    padding: 10px;
+}
+
+.hide {
+    display: none;
+}
+
+/*table, td {*/
+/*    border:1px solid black;*/
+/*}*/
+
+.tbl, .tbl td {
+    border:1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
