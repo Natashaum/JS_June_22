@@ -1,0 +1,31 @@
+
+.comment{
+    margin: 10px;
+    border: 1px solid deepskyblue;
+    background: deepskyblue;
+    height: 250px;
+    padding: 15px;
+}
+
+#post {
+    padding: 20px;
+    background: cyan;
+    text-align: center;
+    font-size: x-large;
+    color: blue;
+}
+
+#comments {
+    background: #5540e0;
+    color: #0015ff;
+}
+
+.row {
+    display: flex;
+}
+
+.comments-column{
+    padding: 10px;
+    margin: 5px;
+    flex: 25%;
+}

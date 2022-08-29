@@ -1,0 +1,48 @@
+/*=============================               user.details.HTML - style            =================================*/
+#dad {
+    background: #b794ef;
+    padding: 10px;
+}
+#child1 {
+    background: #abffff;
+    font-style: oblique;
+    font-size: xx-large;
+    padding: 40px;
+    text-align: center;
+}
+
+.children {
+    background: #00ffff;
+    color: darkviolet;
+    font-style: oblique;
+    font-size: large;
+    text-align: center;
+    margin-bottom: 10px;
+    display: block;
+    height: 100px;
+}
+
+#btnDecor {
+    border: solid 3px #0015ff;
+    background: #0015ff;
+    padding: 10px;
+    margin: 30px auto;
+    font-size: xx-large;
+    color: #abffff;
+    width: 90%;
+    display: block;
+}
+
+.child2-column{
+    padding: 10px;
+    margin: 5px;
+    flex: 20%;
+}
+
+.row {
+    display: flex;
+}
+
+.hide{
+    display: none;
+}
